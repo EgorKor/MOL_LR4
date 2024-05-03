@@ -1,0 +1,9 @@
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\bin\Debug\LAB_4.exe.config
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\bin\Debug\LAB_4.exe
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\bin\Debug\LAB_4.pdb
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.AssemblyReference.cache
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\obj\Debug\LAB_4.Properties.Resources.resources
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.GenerateResource.cache
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\obj\Debug\LAB_4.exe
+C:\Users\Егорчек\Desktop\Семестр 6\Моделирование\лаба4\LAB_4\LAB_4\obj\Debug\LAB_4.pdb
